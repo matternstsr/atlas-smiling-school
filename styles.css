@@ -599,3 +599,9 @@ footer {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
+
+.holberton_school-icon-ic_instagram:before {content: "\e90a";}
+.holberton_school-icon-ic_facebook:before {content: "\e908";}
+.holberton_school-icon-ic_twitter:before {content: "\e90f";}
